@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 333333
 
+=======
+master
+>>>>>>> 5e3c4ab (addng x.txt)
